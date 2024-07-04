@@ -1,0 +1,550 @@
+    * {
+        margin: 0;
+        box-sizing: border-box;
+    }
+
+    .box1 {
+        margin-left: 50px;
+        display: flex;
+        width: 90%;
+        border: 1px solid white;
+        padding: 10px 35px 20px 10px;
+        gap: 10px;
+        text-align: center;
+        justify-content: center;
+    }
+
+    img[src="v6-icon (free) (2).png"] {
+        margin-right: auto; 
+    }
+
+    img[src="v6-icon (free) (1).png"]
+    img[src="v6-icon (free).png"] { 
+        margin-left: auto; 
+    }
+
+    .box2 {
+        width: 200px;
+        height: 100%;
+        display: flex;
+        gap:10px;
+        border: 1px solid white;
+        align-items: center;
+        justify-content: center;
+        margin: auto;
+    }
+
+    .box4 {
+        display: flex;
+        margin: auto;
+        gap: 37px;
+        text-align: center;
+        justify-content: center;
+        width: 90%;
+        height: 1px;
+        margin-left: 50px;
+        margin-top: 20px;
+        border: 1px solid lightgray;
+    }
+
+    .box3 {
+        display: flex;
+        margin: auto;
+        gap: 37px;
+        text-align: center;
+        justify-content: center;
+        width: 90%;
+        margin-left: 50px;
+        margin-top: 20px;
+    }
+
+    .box5 {
+        margin-top: 100px;
+        display: flex;
+        gap: 70px;
+        margin-left: 50px;
+    }
+
+    .button1 {
+        margin-top: 10px;
+        width: 120px;
+        height: 40px;
+        background-color: black;
+        border: 1px solid black;
+        color: white;
+        background-image: url(icon.png);
+        background-repeat: no-repeat;
+        background-size: 10px 10px;
+        background-position:10px center;   
+    }
+
+    .box6 {
+        padding: 10px 35px 10px 10px;
+    }
+
+    img[src="Frame.png"] {
+        margin-right: auto; 
+        width: 195px;
+        height: 262px;
+    }
+
+    .box7 {
+        display: flex;
+        margin: auto;
+        gap: 37px;
+        text-align: center;
+        justify-content: center;
+        width: 90%;
+        margin-left: 50px;
+        margin-top: 20px;
+    }
+
+    .box8 {
+        display: flex;
+        margin-top: 20px;
+        align-items: center; /* Center items vertically */
+        gap:10px;
+        text-align: left;
+        
+    }
+
+    .box11 {
+        transform: rotate(-90deg); /* Rotate box 90 degrees counterclockwise */
+        position: absolute;
+        margin-left: 1px;
+        
+    }
+
+    img[src="card.png"] {
+        width: 600px;
+        height: 600px;
+        margin-left: 250px;
+    }
+
+    img[src="card (1).png"] {
+        width: 300px;
+        height: 300px;
+    }
+
+    img[src="card (2).png"] {
+        width: 300px;
+        height: 300px;
+    }
+
+    img[src="card (3).png"] {
+        width: 300px;
+        height: 300px;
+    }
+
+    img[src="card (4).png"] {
+        width: 300px;
+        height: 300px;
+    }
+
+    .box9 {
+        margin-top: 0;
+        gap: 10px;
+    }
+
+    .box10 {
+        margin-top: 0;
+        gap: 10px; 
+    }
+
+    img[scr="top-product123.png"]
+    img[scr="top-product.png"]
+    img[scr="top-product (1).png"]
+    img[scr="top-product (2).png"] {
+        width: 250px;
+        height: 400px;
+    }
+
+    .box12 {
+        display: flex;
+        margin: auto;
+        gap: 37px;
+        text-align: center;
+        justify-content: center;
+        width: 90%;
+        margin-left: 50px;
+        margin-top: 20px;
+    }
+
+    .box13 {
+        margin-left: 50px;
+        display: flex;
+        width: 90%;
+        border: 1px solid white;
+        padding: 10px 35px 20px 10px;
+        gap: 20px;
+    }
+
+    .Filterbutton {
+        margin-right: 0;
+        width: 100px;
+        height: 20px;
+        background-color: black;
+        border: 1px solid black;
+        color: white;
+        background-image: url(v6-icon\ \(free\)\ \(4\).png);
+        background-repeat: no-repeat;
+        background-size: 10px 10px;
+        background-position:10px center;    
+    }
+
+    .box14 {
+        margin-left: 50px;
+        display: flex;
+        width: 90%;
+        border: 1px solid white;
+        gap: 10px;
+    }
+
+    .box15 {
+        margin-left: 50px;
+        display: flex;
+        width: 100%;
+        border: 1px solid white;
+        justify-content: space-between 20px;
+    }
+
+    .box15-1 {
+        border: 1px solid white;
+        width: 220px; 
+    }
+
+    .box15-2 {
+        border: 1px solid white; 
+        width: 60px;
+        margin-bottom: 0;
+        margin-top: 40px;
+    }
+
+    .boxb {
+        border: 1px solid white; 
+        display: flex;
+        gap: 30px;
+        width: 340px;
+    }
+
+    .boxb2 {
+        border: 1px solid white; 
+        display: flex;
+        margin-left: 10px;
+        gap: 30px;
+        width: 340px;
+    }    
+
+    .boxb3 {
+        border: 1px solid white; 
+        display: flex;
+        margin-left: 10px;
+        gap: 30px;
+        width: 340px;
+    }
+
+    .boxb4 {
+        border: 1px solid white; 
+        display: flex;
+        margin-left: 10px;
+        gap: 5px;
+        width: 340px;
+    }
+
+    .box415-1 {
+        border: 1px solid white; 
+        width: 320px;
+    }
+
+    .word {
+        color: lightgray;
+    }
+
+    .rednumber {
+        color: red;
+    }
+
+    .box415-2 {
+        margin-top: 40px;
+        margin-right: 25px;
+    }
+
+    .box16 {
+        margin-left: 50px;
+        display: flex;
+        width: 100%;
+        border: 1px solid white;
+        justify-content: space-between 20px;
+        gap: 10px;
+    }
+
+    .box18 {
+        margin-left: 50px;
+        display: flex;
+        width: 100%;
+        border: 1px solid white;
+        justify-content: space-between 20px;
+        gap: 10px;
+    }
+
+    .box18-1 {
+        border: 1px solid white;
+        width: 220px; 
+    }
+
+    .box18-2 {
+        border: 1px solid white; 
+        width: 60px;
+        margin-bottom: 0;
+        margin-top: 40px;
+    }
+
+    .box18-3 {
+        border: 1px solid white;
+        width: 220px; 
+    }
+
+    .box18-4 {
+        border: 1px solid white; 
+        width: 60px;
+        margin-bottom: 0;
+        margin-top: 40px;
+    }
+
+    .box18-5 {
+        border: 1px solid white; 
+        width: 60px;
+        margin-bottom: 0;
+        margin-top: 40px;
+        margin-right: 20px;
+    }
+
+    .box181 {
+        display: flex;
+        border: 1px solid white;
+        width: 340px;
+        gap: 30px; 
+    }
+
+    .box182 {
+        display: flex;
+        border: 1px solid white;
+        width: 310px; 
+        gap: 10px;
+    }
+
+    .box183 {
+        display: flex;
+        border: 1px solid white;
+        width: 340px;   
+        gap: 35px;
+    }
+
+    .box184 {
+        display: flex;
+        border: 1px solid white;
+        width: 340px;
+    }
+    
+    .box184 .box18-4 {
+        width: 220px;
+        border: 1px solid white;
+        margin-top: 0;
+    }
+    
+    .box18-5 {
+        width: 60px;
+        margin-bottom: 0;
+        margin-top: 40px;
+        margin-right: 20px;
+        border: 1px solid white;
+    }
+
+    .cross {
+        color: lightgray;
+    }
+
+    .zara {
+        width: 100%;
+        height: 776px;
+        background:url(background.png);
+        border: 1px solid red;
+        margin-left: 50px;
+        margin-top: 20px;
+    }
+
+    .zaralogotext {
+        margin-left: 800px;
+        color: white;
+        margin-top: 150px;
+        padding-bottom: 20px;
+        
+    }
+
+    .Zarabutton {
+        margin-top: 20px;
+        width: 150px;
+        height: 40px;
+    }
+    
+    .zaralogo {
+        margin-bottom: 20px;
+    }
+
+.Bestsellers {
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    margin-left: 50px;
+    text-align: center;
+    margin-top: 50px;
+}
+ 
+.box20 {
+    margin-left: 50px;
+    display: flex;
+    width: 90%;
+    border: 1px solid white;
+    padding: 10px 35px 20px 10px;
+    gap: 20px;
+}
+
+.Showallbutton   {
+    margin-right: 0;
+    width: 100px;
+    height: 20px;
+    background-color: black;
+    border: 1px solid black;
+    color: white;   
+}
+
+.bestsellersphotos {
+    margin-left: 50px;
+    display: flex;
+    width: 90%;
+    border: 1px solid white;
+    padding: 10px 35px 20px 10px;
+    gap: 20px;
+}
+
+.box21 {
+    display: flex;
+    gap: 50px
+ 
+}
+
+.box22 {
+    display: flex;
+    margin-left: 20px;
+    gap: 50px
+}
+
+.box23 {
+    display: flex;
+    margin-left: 20px;
+    gap: 1px;
+}
+
+.box24 {
+    display: flex;
+    margin-left: 20px; 
+    gap: 1px   ;
+}
+
+.box21main {
+    display: flex;
+    margin-left: 60px;
+}
+
+.box211 {
+    border: 1px solid white;
+    width: 210px; 
+}
+
+.Discounts {
+    width: 100%;
+    height: 900px;
+    background-color: #1E28320D;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.Discountshead{
+    margin-top: 50px;
+}
+
+.discountsphotos {
+    margin-top: 50px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.inputs {
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    gap: 10px;
+}
+
+.email {
+    width: 643px;
+    height: 32px;
+    border: none;
+    background-color: #1E28320D;
+    border-bottom: 1px solid black;
+    
+}
+
+.email ::placeholder {
+    padding: 10px;
+}
+
+.button {
+    width: 91px;
+    height: 32px;
+    border: none;
+    border-bottom: 1px solid black
+}
+
+.mainlastbox {
+    margin-left: 100px;
+    gap: 20px;
+}
+.logo2 {
+    display: flex;
+}
+
+.logoslast {
+    margin-top: 20px;
+    display: flex;
+    gap: 40px;
+}
+
+.text {
+    margin-top: 20px;
+}
+
+.list {
+    margin-left: 150px;
+}
+
+.lasttext {
+    display: flex;
+    margin-top: 70px;
+    gap: 50px;
+}
+
+.lastdiv {
+    background-color: black;
+    margin-top: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 150px;
+    color: white;
+    height: 50px;
+}
